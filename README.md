@@ -4,7 +4,7 @@ This assignment applies **K-Means clustering** to analyze and group cryptocurren
 
 ---
 
-## ?? Project Overview
+## Project Overview
 ### **Objective**
 - Identify if cryptocurrencies can be clustered based on **24-hour** and **7-day price changes**.
 - Use **K-Means Clustering** and **PCA** to optimize and analyze data patterns.
@@ -22,7 +22,7 @@ This assignment applies **K-Means clustering** to analyze and group cryptocurren
 
 ---
 
-## ?? Key Steps & Methodology
+## Key Steps & Methodology
 
 ### **1?? Data Preprocessing**
 - Loaded the cryptocurrency dataset into a Pandas **DataFrame**.
@@ -56,7 +56,7 @@ This assignment applies **K-Means clustering** to analyze and group cryptocurren
 
 ---
 
-## ?? Key Findings
+## Key Findings
 ? **Best k-value found:** **4** (same for original and PCA data).  
 ? **PCA reduced dimensions while preserving ~89.5% variance**.  
 ? **Clusters remained consistent before and after PCA** (demonstrating PCA's effectiveness).  
@@ -64,7 +64,7 @@ This assignment applies **K-Means clustering** to analyze and group cryptocurren
 
 ---
 
-## ?? Installation & Setup
+## Installation & Setup
 
 ### **1?? Install Required Libraries**
 Ensure you have the necessary Python packages installed:
